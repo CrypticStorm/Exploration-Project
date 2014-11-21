@@ -1,0 +1,6 @@
+[submodule "Exploration-API"]
+	path = Exploration-API
+	url = https://github.com/CrypticStorm/Exploration-API.git
+[submodule "Exploration-Client"]
+	path = Exploration-Client
+	url = https://github.com/CrypticStorm/Exploration-Client.git
